@@ -1,0 +1,35 @@
+tr th:nth-child(2){
+    width:200px;
+}
+tr th.dow{
+    width: auto;
+}
+.datetimepicker td{
+    width: auto;
+}
+.datetimepicker table tr td span.minute{
+    width: 8%;
+}
+.modalTit .col-lg-6{
+    text-align: center;
+}
+.modalTit h4{
+    display: inline-block;
+    float: left;
+    margin-top: 20px;
+}
+.modalTit span{
+    font-weight: bold;
+    color: #f00;
+    font-size: 30px;
+    text-align: center;
+    line-height: 66px;
+}
+.modal-header{
+    overflow: hidden;
+    height: 66px;
+    padding: 0 15px;
+}
+.modal-header .close{
+    margin-top: 20px;
+}
